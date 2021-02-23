@@ -18,3 +18,11 @@
                Started my repo starting-flutter.. i'm new to flutter..this is it..
 
 **Link to Work :** https://github.com/artdev-hash/starting-flutter
+
+# DAY 0: FEBRUARY 23 2021 (starting-flutter)
+
+**Todays Progress :** Just push my firstexampleapp demo trying flutter in MANJARO
+
+**Thoughts :** okay...
+
+**Link to Work :** https://github.com/artdev-hash/starting-flutter

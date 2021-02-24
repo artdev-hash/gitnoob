@@ -26,3 +26,11 @@
 **Thoughts :** okay...
 
 **Link to Work :** https://github.com/artdev-hash/starting-flutter
+
+# DAY 1: FEBRUARY 24 2021 (starting-flutter)
+
+**Todays Progress :** i want to create a login a welcome page for my application
+
+**Thoughts :** I'm trying to create first my login with authentication before I put the index page of my app.. which will include some of the part of the activities I have done during 30daysofFlutter..
+
+**Link to Work :** https://github.com/artdev-hash/starting-flutter

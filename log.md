@@ -43,3 +43,14 @@
 I review and installed MANJARO xfce.. i am using it and completing it to perform installation of needed packages and software program i need.. 
 
 **Link to Work :** n/a
+
+# DAY 6: MARCH 15, 2021 Monday
+
+**Todays Progress :** Learning from books and docs
+
+**Thoughts :**This time i want to learn from exploring documentation's and from books or articles online.. I feel like there's lot of youtube video now that is tutorial about what 
+you want to do.. but learning from watching is different than solving your problem yourself.. i just wan't to practice solving this myway rather than watching the fix to do it..
+for me to be a earn that experience i needed to learn that programming language..as of now i want to solve from scratch before i based my learning from youtube..
+I'm doing this 100 Days of Coding Challenge..to become a better programmer than i am now.. improve and learn new language.. 
+
+**Link to Work :** n/a
